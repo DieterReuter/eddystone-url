@@ -1,6 +1,9 @@
 
 # eddystone-url
 
+Details see: https://github.com/don/node-eddystone-beacon
+
+
 ## Run the code locally on your Mac
 ```
 npm install
