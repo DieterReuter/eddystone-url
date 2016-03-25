@@ -1,0 +1,14 @@
+{
+  "name": "eddystone-url",
+  "version": "1.0.0",
+  "description": "Advertise an Eddystone-URL Beacon",
+  "author": "Dieter Reuter <dieter.reuter@me.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "eddystone-beacon": "^1.0.5"
+  },
+  "license": "MIT"
+}
